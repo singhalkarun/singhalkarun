@@ -1,3 +1,10 @@
+# Karun Agarwal
+#### The road not taken | Love to learn
+<br/>
+
+[![Linkedin](/images/linkedin.png)](https://linkedin.com/in/singhalkarun)&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook](/images/facebook.png)](https://facebook.com/singhalkarun)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](/images/instagram.png)](https://instagram.com/singhalkarun) 
+<br/>
+
 ### Hi there 👋
 
 <!--
@@ -5,12 +12,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+
+- 🔭 I’m currently working on android and ios development project.
+- 🌱 I’m currently learning flutter and firebase.
+- 👯 I’m looking to collaborate on flutter and firebase based projects.
+- 💬 Ask me about linux.
+- 📫 How to reach me: Contact me on [agarwalkarun01@gmail.com](mailto:agarwalkarun01@gmail.com).
+- ⚡ Fun fact: I like cooking.
