@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flutter and firebase.
 - 👯 I’m looking to collaborate on flutter and firebase based projects.
 - 💬 Ask me about linux.
-- 📫 How to reach me: Contact me on [agarwalkarun01@gmail.com](mailto:agarwalkarun01@gmail.com).
 - ⚡ Fun fact: I like cooking.
