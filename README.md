@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 -->
 
-
-- 🔭 I’m currently working on android and ios development project.
-- 🌱 I’m currently learning flutter and firebase.
-- 👯 I’m looking to collaborate on flutter and firebase based projects.
+- 🌱 I’m currently learning DevOps.
 - 💬 Ask me about linux.
 - ⚡ Fun fact: I like cooking.
